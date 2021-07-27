@@ -1,9 +1,6 @@
 {
   "name": "404-devchallenge",
   "version": "0.0.1",
-  "nodemonConfig": {
-    "ext": "js,html"
-  },
   "description": "404 page challenge for devchallenge",
   "main": "index.js",
   "scripts": {
